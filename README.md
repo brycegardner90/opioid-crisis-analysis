@@ -170,4 +170,4 @@ Zooming in on 2013–2023, the fentanyl takeover is unmistakable. From barely re
 |---|---------|-------|
 | 1 | [ADHD in America: A 25-Year Analysis](https://github.com/brycegardner90/adhd-in-america) | Python, SQLite, Power BI |
 | **2** | **The Opioid Crisis: A 25-Year Analysis** | **Python, SQLite, Power BI** |
-| 3 | Mental Health & Depression Trends — Coming Soon | Python, SQLite, Power BI |
+| 3 | [Mental Health in America: Trends & Treatment Gaps](https://github.com/brycegardner90/mental-health-trends) | Python, SQLite, Power BI |
