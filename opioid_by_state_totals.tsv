@@ -1,0 +1,109 @@
+"Notes"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	11583	103604166	11.2
+	"Alaska"	"02"	2241	15300884	14.6
+	"Arizona"	"04"	24121	138079425	17.5
+	"Arkansas"	"05"	6905	63181817	10.9
+	"California"	"06"	89403	815706063	11.0
+	"Colorado"	"08"	16508	110389320	15.0
+	"Connecticut"	"09"	12751	77711442	16.4
+	"Delaware"	"10"	3789	19532241	19.4
+	"District of Columbia"	"11"	2921	13636649	21.4
+	"Florida"	"12"	67883	413765419	16.4
+	"Georgia"	"13"	21860	209381012	10.4
+	"Hawaii"	"15"	3192	29491292	10.8
+	"Idaho"	"16"	3695	33894011	10.9
+	"Illinois"	"17"	35508	279233480	12.7
+	"Indiana"	"18"	21231	141518257	15.0
+	"Iowa"	"19"	4805	66861208	7.2
+	"Kansas"	"20"	5946	62051541	9.6
+	"Kentucky"	"21"	20177	94374176	21.4
+	"Louisiana"	"22"	16158	100136377	16.1
+	"Maine"	"23"	4530	29046732	15.6
+	"Maryland"	"24"	24882	126308636	19.7
+	"Massachusetts"	"25"	25807	144921428	17.8
+	"Michigan"	"26"	32245	219087039	14.7
+	"Minnesota"	"27"	9779	116354336	8.4
+	"Mississippi"	"28"	6456	64598559	10.0
+	"Missouri"	"29"	19976	130170885	15.3
+	"Montana"	"30"	2446	21654987	11.3
+	"Nebraska"	"31"	2333	40077995	5.8
+	"Nevada"	"32"	11397	57588193	19.8
+	"New Hampshire"	"33"	5013	28800092	17.4
+	"New Jersey"	"34"	27780	192409809	14.4
+	"New Mexico"	"35"	9881	43978024	22.5
+	"New York"	"36"	45950	425850343	10.8
+	"North Carolina"	"37"	29081	205681896	14.1
+	"North Dakota"	"38"	822	15194827	5.4
+	"Ohio"	"39"	49189	253609029	19.4
+	"Oklahoma"	"40"	13021	81770584	15.9
+	"Oregon"	"41"	10031	83915155	12.0
+	"Pennsylvania"	"42"	54827	277318500	19.8
+	"Rhode Island"	"44"	4423	23261764	19.0
+	"South Carolina"	"45"	14056	100679830	14.0
+	"South Dakota"	"46"	1057	17936581	5.9
+	"Tennessee"	"47"	25379	138146823	18.4
+	"Texas"	"48"	50606	548904814	9.2
+	"Utah"	"49"	10445	59820399	17.5
+	"Vermont"	"50"	1819	13674812	13.3
+	"Virginia"	"51"	19272	173946516	11.1
+	"Washington"	"53"	20834	147569534	14.1
+	"West Virginia"	"54"	11387	40168566	28.3
+	"Wisconsin"	"55"	15528	124026036	12.5
+	"Wyoming"	"56"	1435	12035143	11.9
+"Total"			932364	6746356647	13.8
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44); Drug poisonings (overdose) Suicide (X60-X64);"
+"Drug poisonings (overdose) Homicide (X85); Drug poisonings (overdose) Undetermined (Y10-Y14)"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Jun 4, 2026 7:20:22 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Jun 4, 2026 7:20:22 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
